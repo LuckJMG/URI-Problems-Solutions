@@ -1,0 +1,11 @@
+C:\Users\luqui\Documents\GitHub\Solutions-of-URI-Online-Judge-problems\Beginner\1001 - Extremely Basic\bin\Debug\netcoreapp3.0\1001 - Extremely Basic.exe
+C:\Users\luqui\Documents\GitHub\Solutions-of-URI-Online-Judge-problems\Beginner\1001 - Extremely Basic\bin\Debug\netcoreapp3.0\1001 - Extremely Basic.deps.json
+C:\Users\luqui\Documents\GitHub\Solutions-of-URI-Online-Judge-problems\Beginner\1001 - Extremely Basic\bin\Debug\netcoreapp3.0\1001 - Extremely Basic.runtimeconfig.json
+C:\Users\luqui\Documents\GitHub\Solutions-of-URI-Online-Judge-problems\Beginner\1001 - Extremely Basic\bin\Debug\netcoreapp3.0\1001 - Extremely Basic.runtimeconfig.dev.json
+C:\Users\luqui\Documents\GitHub\Solutions-of-URI-Online-Judge-problems\Beginner\1001 - Extremely Basic\bin\Debug\netcoreapp3.0\1001 - Extremely Basic.dll
+C:\Users\luqui\Documents\GitHub\Solutions-of-URI-Online-Judge-problems\Beginner\1001 - Extremely Basic\bin\Debug\netcoreapp3.0\1001 - Extremely Basic.pdb
+C:\Users\luqui\Documents\GitHub\Solutions-of-URI-Online-Judge-problems\Beginner\1001 - Extremely Basic\obj\Debug\netcoreapp3.0\1001 - Extremely Basic.csprojAssemblyReference.cache
+C:\Users\luqui\Documents\GitHub\Solutions-of-URI-Online-Judge-problems\Beginner\1001 - Extremely Basic\obj\Debug\netcoreapp3.0\1001 - Extremely Basic.AssemblyInfoInputs.cache
+C:\Users\luqui\Documents\GitHub\Solutions-of-URI-Online-Judge-problems\Beginner\1001 - Extremely Basic\obj\Debug\netcoreapp3.0\1001 - Extremely Basic.AssemblyInfo.cs
+C:\Users\luqui\Documents\GitHub\Solutions-of-URI-Online-Judge-problems\Beginner\1001 - Extremely Basic\obj\Debug\netcoreapp3.0\1001 - Extremely Basic.dll
+C:\Users\luqui\Documents\GitHub\Solutions-of-URI-Online-Judge-problems\Beginner\1001 - Extremely Basic\obj\Debug\netcoreapp3.0\1001 - Extremely Basic.pdb

@@ -1,0 +1,10 @@
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1020 - Age on Days\bin\Debug\netcoreapp3.0\1020 - Age on Days.exe
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1020 - Age on Days\bin\Debug\netcoreapp3.0\1020 - Age on Days.deps.json
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1020 - Age on Days\bin\Debug\netcoreapp3.0\1020 - Age on Days.runtimeconfig.json
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1020 - Age on Days\bin\Debug\netcoreapp3.0\1020 - Age on Days.runtimeconfig.dev.json
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1020 - Age on Days\bin\Debug\netcoreapp3.0\1020 - Age on Days.dll
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1020 - Age on Days\bin\Debug\netcoreapp3.0\1020 - Age on Days.pdb
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1020 - Age on Days\obj\Debug\netcoreapp3.0\1020 - Age on Days.AssemblyInfoInputs.cache
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1020 - Age on Days\obj\Debug\netcoreapp3.0\1020 - Age on Days.AssemblyInfo.cs
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1020 - Age on Days\obj\Debug\netcoreapp3.0\1020 - Age on Days.dll
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1020 - Age on Days\obj\Debug\netcoreapp3.0\1020 - Age on Days.pdb

@@ -1,0 +1,11 @@
+C:\Users\luqui\Documents\Programación\Proyectos\1022 - Rational TAD\obj\Debug\netcoreapp3.0\1022 - Rational TAD.csprojAssemblyReference.cache
+C:\Users\luqui\Documents\Programación\Proyectos\1022 - Rational TAD\obj\Debug\netcoreapp3.0\1022 - Rational TAD.AssemblyInfoInputs.cache
+C:\Users\luqui\Documents\Programación\Proyectos\1022 - Rational TAD\obj\Debug\netcoreapp3.0\1022 - Rational TAD.AssemblyInfo.cs
+C:\Users\luqui\Documents\Programación\Proyectos\1022 - Rational TAD\bin\Debug\netcoreapp3.0\1022 - Rational TAD.exe
+C:\Users\luqui\Documents\Programación\Proyectos\1022 - Rational TAD\bin\Debug\netcoreapp3.0\1022 - Rational TAD.deps.json
+C:\Users\luqui\Documents\Programación\Proyectos\1022 - Rational TAD\bin\Debug\netcoreapp3.0\1022 - Rational TAD.runtimeconfig.json
+C:\Users\luqui\Documents\Programación\Proyectos\1022 - Rational TAD\bin\Debug\netcoreapp3.0\1022 - Rational TAD.runtimeconfig.dev.json
+C:\Users\luqui\Documents\Programación\Proyectos\1022 - Rational TAD\bin\Debug\netcoreapp3.0\1022 - Rational TAD.dll
+C:\Users\luqui\Documents\Programación\Proyectos\1022 - Rational TAD\bin\Debug\netcoreapp3.0\1022 - Rational TAD.pdb
+C:\Users\luqui\Documents\Programación\Proyectos\1022 - Rational TAD\obj\Debug\netcoreapp3.0\1022 - Rational TAD.dll
+C:\Users\luqui\Documents\Programación\Proyectos\1022 - Rational TAD\obj\Debug\netcoreapp3.0\1022 - Rational TAD.pdb

@@ -1,0 +1,11 @@
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1019 - Time Conversion\bin\Debug\netcoreapp3.0\1019 - Time Conversion.exe
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1019 - Time Conversion\bin\Debug\netcoreapp3.0\1019 - Time Conversion.deps.json
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1019 - Time Conversion\bin\Debug\netcoreapp3.0\1019 - Time Conversion.runtimeconfig.json
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1019 - Time Conversion\bin\Debug\netcoreapp3.0\1019 - Time Conversion.runtimeconfig.dev.json
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1019 - Time Conversion\bin\Debug\netcoreapp3.0\1019 - Time Conversion.dll
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1019 - Time Conversion\bin\Debug\netcoreapp3.0\1019 - Time Conversion.pdb
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1019 - Time Conversion\obj\Debug\netcoreapp3.0\1019 - Time Conversion.csprojAssemblyReference.cache
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1019 - Time Conversion\obj\Debug\netcoreapp3.0\1019 - Time Conversion.AssemblyInfoInputs.cache
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1019 - Time Conversion\obj\Debug\netcoreapp3.0\1019 - Time Conversion.AssemblyInfo.cs
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1019 - Time Conversion\obj\Debug\netcoreapp3.0\1019 - Time Conversion.dll
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1019 - Time Conversion\obj\Debug\netcoreapp3.0\1019 - Time Conversion.pdb

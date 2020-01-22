@@ -1,0 +1,10 @@
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1021 - Banknotes and Coins\bin\Debug\netcoreapp3.0\1021 - Banknotes and Coins.exe
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1021 - Banknotes and Coins\bin\Debug\netcoreapp3.0\1021 - Banknotes and Coins.deps.json
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1021 - Banknotes and Coins\bin\Debug\netcoreapp3.0\1021 - Banknotes and Coins.runtimeconfig.json
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1021 - Banknotes and Coins\bin\Debug\netcoreapp3.0\1021 - Banknotes and Coins.runtimeconfig.dev.json
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1021 - Banknotes and Coins\bin\Debug\netcoreapp3.0\1021 - Banknotes and Coins.dll
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1021 - Banknotes and Coins\bin\Debug\netcoreapp3.0\1021 - Banknotes and Coins.pdb
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1021 - Banknotes and Coins\obj\Debug\netcoreapp3.0\1021 - Banknotes and Coins.AssemblyInfoInputs.cache
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1021 - Banknotes and Coins\obj\Debug\netcoreapp3.0\1021 - Banknotes and Coins.AssemblyInfo.cs
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1021 - Banknotes and Coins\obj\Debug\netcoreapp3.0\1021 - Banknotes and Coins.dll
+C:\Users\luqui\source\repos\URI Problems Solutions\C Sharp\1021 - Banknotes and Coins\obj\Debug\netcoreapp3.0\1021 - Banknotes and Coins.pdb
