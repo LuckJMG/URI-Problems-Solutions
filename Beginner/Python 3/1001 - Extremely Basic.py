@@ -1,4 +1,3 @@
-
 #Declare Variables
 A = int(input())
 B = int(input())
