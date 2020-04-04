@@ -5,7 +5,7 @@ C = int(input())
 D = int(input())
 
 # Calculate Difference
-DIFERENCA = A * B - C * D
+difference = A * B - C * D
 
 # Show results
-print("DIFERENCA = {}".format(DIFERENCA))
+print("DIFERENCA = {}".format(difference))

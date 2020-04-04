@@ -3,7 +3,7 @@ A = int(input())
 B = int(input())
 
 #Calculate
-X = A + B
+addition = A + B
 
 #Print
-print("X = %d" %X )
+print("X = {}".format(addition))

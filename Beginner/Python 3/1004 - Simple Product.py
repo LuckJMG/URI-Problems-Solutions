@@ -3,7 +3,7 @@ A = int(input())
 B = int(input())
 
 # Calculate Product
-PROD = A * B
+product = A * B
 
 # Show Result
-print("PROD = {}".format(PROD))
+print("PROD = {}".format(product))
