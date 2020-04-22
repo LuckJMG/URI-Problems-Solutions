@@ -21,7 +21,7 @@ class Program
             Console.WriteLine("Impossivel calcular");
         }else
         {
-            Console.WriteLine(String.Format("R1 = {0}\nR2 = {1}", Convert.ToString(R1), Convert.ToString(R2)));
+            Console.WriteLine($"R1 = {R1}\nR2 = {R2}");
         }
 
     }

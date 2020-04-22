@@ -19,6 +19,5 @@ class Program
         }else{
             Console.WriteLine("Valores nao aceitos");
         }
-        
     }
 }
