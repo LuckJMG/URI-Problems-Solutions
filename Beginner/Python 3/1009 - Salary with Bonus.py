@@ -7,4 +7,4 @@ sales = float(input())  # Sale's total made by the seller in the month
 total = salary + (sales * .15)
 
 # Show result
-print("TOTAL = R$ {:.2f}".format(total))
+print("total = R$ {:.2f}".format(total))
