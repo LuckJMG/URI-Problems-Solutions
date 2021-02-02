@@ -15,7 +15,7 @@ class Program
         salaryBonus = salary + totalValue * 0.15;
 
         //Print
-        Console.WriteLine("TOTAL = R$ {0:0.00}", salaryBonus);
+        Console.WriteLine("total = R$ {0:0.00}", salaryBonus);
 
     }
 }
